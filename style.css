@@ -1,7 +1,38 @@
 body {
-    background-color: lightblue;
+    background-color: rgb(133, 228, 184);
 }
 
-h1 {
-    color: red;
+h1{
+    color: rgb(60, 24, 94);
+}
+
+p{
+    color: rgb(201, 32, 32); 
+}
+
+h1{
+    font-family: cursive;
+}
+p{
+    font-size: larger;
+}
+
+p{
+    text-align: left;
+}
+
+p{
+    font-family: fantasy;
+}
+img{
+width: 400px;
+}
+ul{
+    font-size: larger;
+}
+ul{
+    font-family: cursive;
+}
+.list{
+    float:right
 }
