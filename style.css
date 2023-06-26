@@ -1,38 +1,53 @@
-body {
-    background-color: rgb(133, 228, 184);
+/* ============================= */
+/* ===== Allgemeine Styles ===== */
+/* ============================= */
+
+/* Dein Code */
+
+/* ======================================= */
+/* ===== Section 1: Navigationszeile ===== */
+/* ======================================= */
+
+/* Dein Code */
+
+/* ================================ */
+/* ===== Section 2: Überblick ===== */
+/* ================================ */
+.section-style-2 {
+    background-color: #6be99b;
+    color: white;
 }
 
-h1{
-    color: rgb(60, 24, 94);
+.grosser-titel {
+    font-size: 60px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+
+.kleiner-titel {
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
 }
 
-p{
-    color: rgb(201, 32, 32); 
-}
+/* =============================== */
+/* ===== Section 3: Features ===== */
+/* =============================== */
 
-h1{
-    font-family: cursive;
-}
-p{
-    font-size: larger;
-}
+/* Dein Code */
 
-p{
-    text-align: left;
-}
+/* ================================== */
+/* ===== Section 4: Bewertungen ===== */
+/* ================================== */
 
-p{
-    font-family: fantasy;
-}
-img{
-width: 400px;
-}
-ul{
-    font-size: larger;
-}
-ul{
-    font-family: cursive;
-}
-.list{
-    float:right
-}
+/* Dein Code */
+
+/* ============================= */
+/* ===== Section 5: Preise ===== */
+/* ============================= */
+
+/* Dein Code */
+
+/* ============================= */
+/* ===== Section 6: Footer ===== */
+/* ============================= */
+
+/* Dein Code */
