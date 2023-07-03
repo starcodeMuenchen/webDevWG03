@@ -17,37 +17,17 @@
     background-color: #6be99b;
     color: white;
 }
-
+.section-style-1 {
+    background-color: #097e43;
+    color: rgb(231, 228, 228);
+  }
+.pizza-bild{
+    width: 80%;
+    border-radius: 5%;
+    transform: rotate(5deg);
+  }
 .grosser-titel {
     font-size: 60px;
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
-
-.kleiner-titel {
-    font-size: 30px;
-    font-family: 'Courier New', Courier, monospace;
 }
-
-/* =============================== */
-/* ===== Section 3: Features ===== */
-/* =============================== */
-
-/* Dein Code */
-
-/* ================================== */
-/* ===== Section 4: Bewertungen ===== */
-/* ================================== */
-
-/* Dein Code */
-
-/* ============================= */
-/* ===== Section 5: Preise ===== */
-/* ============================= */
-
-/* Dein Code */
-
-/* ============================= */
-/* ===== Section 6: Footer ===== */
-/* ============================= */
-
-/* Dein Code */
