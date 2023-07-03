@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="de">
 
@@ -35,15 +34,17 @@
     <section class="section-style-2" id="überblick">
         <div class="container-fluid">
             <div class="row">
-                <div class="col-lg-6 überblick-links"></div>
+                <div class="col-lg-6 überblick-links">
                     <h1 class="grosser-titel">PIZZA-APP</h1>
                     <h3 class="kleiner-titel">
-                       Du hast Hunger aber keine Lust rauszugehen? Bestelle hier einfach eine Pizza!
-                      </h3>
-                      <button type="button" class="btn btn-success">
+                        Du hast Hunger aber keine Lust rauszugehen? Bestelle hier einfach eine Pizza!
+                    </h3>
+                    <button onclick="window.location.href='first link.html';" type="button" class="btn btn-success">
                         Probier es aus!
-                      </button>
-                <div class="col-lg-6 überblick-rechts"></div>
+                    </button>
+                </div>
+                <div class="col-lg-6 überblick-rechts"><img class="pizza-bild" src="thumb-1920-596343.jpg" /></div>
+
             </div>
             <!-- Dein Code -->
         </div>
@@ -55,7 +56,20 @@
     <!-- Hier werden die Features unserer App aufgelistet -->
     <section class="section-style-1" id="features">
         <div class="container-fluid text-center">
-            <!-- Dein Code -->
+            <!-- Wir wollen, dass die Features nebeneinander angezeigt werden. Dafür verwenden wir wieder die Bootstrap-Klasse "row" -->
+            <div class="row">
+                <div class="feature-box col-lg-4">
+                   <h1>die beste App aller Zeiten</h1>
+                </div>
+
+                <div class="feature-box col-lg-4">
+                  <h2>große Hilfe</h2> 
+                </div>
+
+                <div class="feature-box col-lg-4">
+                  <h3>Viel Spaß</h3>
+                </div>
+            </div>
         </div>
     </section>
 
